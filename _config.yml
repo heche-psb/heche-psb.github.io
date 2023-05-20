@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 domain: heche-psb.github.io
 url: https://heche-psb.github.io
-baseurl: /docs/
 layout: page
 title: Heche's homepage
 description: Documentation for packages
